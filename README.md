@@ -117,7 +117,7 @@ ___
 * `git checkout -b ` - *___Checkout___* Move-se entre _branchs_
                        *___-b___* Indica em qual branch está e cria uma branch
                        
-* `git marge` - *Junta as _branchs_, mas tem que eatá na branch principal*
+* `git marge "nome da branch"` - *Junta as _branchs_, mas tem que eatá na branch principal*
 
 * `git branch ` - *Verifica a quantidade de branch*
 * `git branch -d ` - *Apaga a branch* 
